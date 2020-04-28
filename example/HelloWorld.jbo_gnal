@@ -1,0 +1,6 @@
+cilbup:ssalc HelloWorld {
+    cilbup citats:tni main(args:List<String>) {
+        Console.sendMessage("HelloWorld")
+        nruter 0
+    }
+}
