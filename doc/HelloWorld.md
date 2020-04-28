@@ -31,6 +31,6 @@ Console类负责指挥控制台。sendMessage可以向控制台发送消息。
 
 在控制台输入`jbo_gnal --nur HelloWorld`，注意没有后缀。这时，您应该会在控制台看到“HelloWorld”字样。
 
-![成功执行HelloWorld](example/example_1.png)
+![成功执行HelloWorld](../example/example_1.png)
 
 到此为止，你已经成功编写出了第一个程序，下一篇我们将学习基本数据类型。

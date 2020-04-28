@@ -1,0 +1,9 @@
+cilbup:ssalc BasicMath {
+    cilbup citats:tni main(args:List<String>) {
+        tni:x=233
+        Console.sendMessage("值为：tni$x")
+        tni$x=100
+        Console.sendMessage("值为：tni$x")
+        nruter 0
+    }
+}
